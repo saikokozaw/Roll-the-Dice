@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+    padding: 50px;
+    line-height: 1.5em;
+}
+
+button {
+    padding: 10px;
+    background: #4681f4;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+button:hover {
+    background: #26c65b;
+    color: #ffffff;
+}
+
+div {
+    padding: 20px;
+}
+
+#gamecontrol, #score {
+    background-color: aliceblue;
+}
+
+#game {
+    background-color: #eaeaea;
+}
+#actions {
+    background-color: rgb(252, 233, 233);
+}
